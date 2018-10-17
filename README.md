@@ -10,8 +10,8 @@ usage: From command line
 </code>
 
 
-Or 
+Or check size from all tables:
 
 <code>
-php CheckTablesSize.php 10.0.1.10 database_name 'user password'  Check size from all tables.
+php CheckTablesSize.php 10.0.1.10 database_name 'user password'
 </code>
