@@ -5,10 +5,10 @@ scripts developed in php
 
 usage: From command line
 
-'php CheckTablesSize.php 10.0.1.10 database_name 'user password' 'table_1 table_2 table_n''
-<br>
+`php CheckTablesSize.php 10.0.1.10 database_name 'user password' 'table_1 table_2 table_n'`
+
 Or check size from all tables:
 
-<code>
-php CheckTablesSize.php 10.0.1.10 database_name 'user password'
-</code>
+`php CheckTablesSize.php 10.0.1.10 database_name 'user password'`
+
+
